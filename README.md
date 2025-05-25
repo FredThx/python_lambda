@@ -7,7 +7,7 @@ Pour régler ce problème :
 
 l_function_plus = [lambda x:x+i for i in range(10)]
 
-l_function_plus[3](10) # J'aimerais obtenir 12
+l_function_plus[3](10) # J'aimerais obtenir 13
 
 #Mais j'ai 19 !!!!
 
